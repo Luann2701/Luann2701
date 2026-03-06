@@ -20,7 +20,7 @@
 
 ## 📊 Minhas Estatísticas no GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luann2701&show_icons=true&theme=tokyonight&count_private=true&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luann2701&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ---
 
