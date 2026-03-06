@@ -19,3 +19,7 @@
 ## 📬 Contatos
 - **LinkedIn:** [in/luann-rangel](https://linkedin.com/in/luann-rangel)
 - **Email:** luannrangel2701@gmail.com
+
+## 📊 Minhas Estatísticas no GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luann2701&show_icons=true&theme=tokyonight&count_private=true&hide_border=false)
