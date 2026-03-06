@@ -11,16 +11,18 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas (Skills)
-- **Linguagens:** C, C++, Python
-- **Hardware:** Microcontroladores e Instrumentação
-- **Qualidade:** Documentação técnica e processos de qualidade
+## 🛠️ Tecnologias
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luann2701&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Estatísticas de Luann](https://github-readme-stats-sigma-five.vercel.app/api?username=Luann2701&show_icons=true&theme=tokyonight)
+
+![Linguagens mais usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luann2701&layout=compact&theme=tokyonight)
 
 ---
 
