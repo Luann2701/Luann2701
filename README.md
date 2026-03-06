@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o Luann Rangel 👋
 
-<!--
-**Luann2701/Luann2701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ **Technical degree in Electronics** at CEP.
+🚀 Currently studying **Computer Engineering** at **INATEL**.
+💼 Currently working at **Nokia (MIDC)** focused on Documentation and Quality.
+💻 My main focus is **Software Development** and **Embedded Systems**.
+⚡ Experience with **C, C++, Python**, Microcontrollers, and Electronic Instrumentation.
+🏆 Awarded **2nd Place** at the **36th FECEP** for a technical/technological project.
+🥇 **Gold Medalist** in the Mathematics Olympiad of Conceição dos Ouros and 2x Honorable Mention at **OBMEP**.
+📚 Topics I’m studying now: Advanced **Computer Engineering** concepts and Technical **English**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas (Skills)
+- **Linguagens:** C, C++, Python
+- **Hardware:** Microcontroladores e Instrumentação
+- **Qualidade:** Documentação técnica e processos de qualidade
+
+## 📬 Contatos
+- **LinkedIn:** [in/luann-rangel](https://linkedin.com/in/luann-rangel)
+- **Email:** luannrangel2701@gmail.com
