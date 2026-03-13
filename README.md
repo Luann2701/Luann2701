@@ -22,7 +22,7 @@
 
 ![Estatísticas de Luann](https://github-readme-stats-sigma-five.vercel.app/api?username=Luann2701&show_icons=true&theme=tokyonight)
 
-![Linguagens mais usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luann2701&layout=compact&theme=tokyonight&hide=html,css,typescript)
+![Linguagens mais usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luann2701&layout=compact&theme=tokyonight)
 
 ---
 
